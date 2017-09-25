@@ -19,8 +19,9 @@ I worked on the test on and off in an estimated time of up to 4-5 hours
 I am available to discuss the decisions I made.
 
 Running instructions:
-1) go to project dir
-2) run the following commands: 
+go to project dir
+run the following commands: 
+
 mvn clean install
 cd target
 unzip roundforest-csv-analyzer-0.0.1-SNAPSHOT-app.zip

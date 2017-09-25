@@ -21,7 +21,6 @@ I am available to discuss the decisions I made.
 Running instructions:
 go to project dir
 run the following commands: 
-
 mvn clean install
 cd target
 unzip roundforest-csv-analyzer-0.0.1-SNAPSHOT-app.zip
